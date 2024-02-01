@@ -15,7 +15,7 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     padding: 10px;
-    background-color: #bb3e03;
+    background-color: #1A1110;
     color: aliceblue;
 }
 h5 {
@@ -30,7 +30,7 @@ h5 {
 
 /* DATOS */
 .datos {
-    background-color: #bb3e03;
+    background-color: #1A1110;
     display: flex;
     justify-content: center;
     padding: 15px;
@@ -38,7 +38,7 @@ h5 {
 }
 
 .datos p {
-    background-color:#bb3e03;
+    background-color:#1A1110;
     color: aliceblue;
     padding: 6px 10px;
     border-radius: 5px;
